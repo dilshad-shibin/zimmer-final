@@ -1025,7 +1025,8 @@ form .form-group{
 }
 
 .form-group input,
-.form-group select{
+.form-group select,
+.form-group textarea{
     background: #ffffff;
     color: #999c9d;
     font-weight: 600;
@@ -1040,6 +1041,12 @@ form .form-group{
     transition: all 0.5s ease-out 0s;
     font-size: 16px;
     border-radius: 5px;
+    width: 100%;
+}
+
+
+.form-group textarea{
+    padding-top: 10px;
 }
 
 .form-group input[type="submit"]{
@@ -1051,7 +1058,7 @@ form .form-group{
     font-size: 15px;
     font-weight: 500;
     letter-spacing: 2px;
-    margin-top: 20px;
+    margin-top: 0px;
     -webkit-box-shadow: 0 0 12px rgb(160 52 140 / 60%);
     box-shadow: 0 0 12px rgb(160 52 140 / 60%);
 }
@@ -1499,7 +1506,8 @@ form .form-group{
 }
 
 .contact-box .form-group input,
-.contact-box .form-group select{
+.contact-box .form-group select,
+.contact-box .form-group textarea{
     background-color: #5d6c75;
     color: #caced1;
     box-shadow: 0 1px 5px rgb(0 0 0 / 10%);
@@ -1507,6 +1515,10 @@ form .form-group{
     font-size: 17px;
     padding: 0 20px;
     border: none;
+}
+
+.contact-box .form-group textarea{
+    padding-top: 10px;
 }
 
 .contact-box .form-group{
@@ -1699,7 +1711,7 @@ form .form-group{
     z-index: 99;
 }
 
-#letter5 select, #letter5 input {
+#letter5 select, #letter5 input , #letter5 textarea {
     margin-bottom: 15px;
     position: relative;
     color: #193d6f;
@@ -1718,11 +1730,21 @@ form .form-group{
     cursor: pointer;
 }
 
-#letter5 input:focus {
+#letter5 input:focus,
+#letter5 textarea:focus {
     outline: none !important;
-    border: 0.5px solid #9b1b44;
+    border: 0.5px solid #ffb400;
     color: #193d6f;
 }
+
+#letter5 textarea{
+    padding-top: 10px;
+}
+
+/* 
+.model-project-details .form-group textarea{
+    border: 0.5px solid #ccc;
+} */
 
 .wrap {
     overflow: hidden;

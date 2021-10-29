@@ -91,12 +91,7 @@ $medium=$_GET['utm_medium'];
                                     <input type="email" placeholder="Email" class="form-control" name="email" required>
                                 </div>
                                 <div class="form-group">
-                                    <select name="place" class="form-control">
-                                        <option value="India">India</option>
-                                        <option value="Australia">Australia</option>
-                                        <option value="Newzeland">Newzeland</option>
-                                        <option value="UAE">UAE</option>
-                                    </select>
+                                    <textarea name="" id="" placeholder="Message"></textarea>
                                 </div>
                                 <div class="form-group">
                                 	<input type="hidden" name="esource" value="<?php echo $source;?>">
@@ -600,12 +595,7 @@ $medium=$_GET['utm_medium'];
                                     </div>
                                     <div class="col-12 col-md-6">
                                         <div class="form-group">
-                                            <select name="place" class="form-control">
-                                                <option value="India">India</option>
-                                        		<option value="Australia">Australia</option>
-                                        		<option value="Newzeland">Newzeland</option>
-                                        		<option value="UAE">UAE</option>
-                                            </select>
+                                            <textarea name="" id="" placeholder="Message"></textarea>
                                         </div>
                                     </div>
                                     <div class="col-12 submit-btn">
@@ -697,12 +687,7 @@ $medium=$_GET['utm_medium'];
                                                                         </div>
                                                                         <div class="col-12 col-md-6">
                                                                             <div class="form-group">
-                                                                                <select name="place" class="form-control">
-                                                                                    <option value="India">India</option>
-                                        											<option value="Australia">Australia</option>
-                                        											<option value="Newzeland">Newzeland</option>
-                                        											<option value="UAE">UAE</option>
-                                                                                </select>
+                                                                                <textarea name="" id="" placeholder="Message"></textarea>
                                                                             </div>
                                                                         </div>
                                                                     </div>
