@@ -128,7 +128,7 @@ $medium=$_GET['utm_medium'];
                         <div class="product-head">
                             <h1>Our Products</h1>
                         </div>
-                    </div>
+                    </div> 
                 </div>
                 <!-- enShock -->
                 <div class="row">
@@ -190,7 +190,7 @@ $medium=$_GET['utm_medium'];
                                             </div>
                                         </div>
                                         <div class="elec-content">
-                                            <div><h3>SoleLine</h3></div>
+                                            <div><h3>Soleo Line</h3></div>
                                             <div class="brochure-btn"><a href="#" data-toggle="modal" data-target="#exampleModal0">Download Brochure</a></div>
                                         </div>
                                     </div>
@@ -508,7 +508,7 @@ $medium=$_GET['utm_medium'];
                     <div class="col-lg-6 m-5px pr-3px">
                         <div class="emfield-box">
                             <img src="assets/img/products/emfield.jpg" alt="">
-                            <div class="emfield-content">
+                            <div class="emfield-content emfield-content-white">
                                 <h1>Emfield Pro</h1>
                             </div>
                             <div class="emfield-btn">

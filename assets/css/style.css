@@ -1334,6 +1334,10 @@ form .form-group{
     font-weight: 700;
 }
 
+.emfield-content-white h1{
+    color: #fff;
+}
+
 .emfield-btn{
     position: absolute;
     bottom: 35px;

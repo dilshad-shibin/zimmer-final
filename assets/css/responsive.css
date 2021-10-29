@@ -529,7 +529,7 @@
     }
     .years-exp{
         position: absolute;
-        top: -630px;
+        top: -580px;
         width: 90%;
     }
     .years-exp .number-count .value span{
@@ -539,10 +539,10 @@
         padding-right: 10px;
     }
     .welcome-intro > h3{
-        font-size: 18px;
+        font-size: 16px;
     }
     .welcome-intro > h1{
-        font-size: 32px;
+        font-size: 28px;
     }
     .years-exp .number-count .para p{
         font-size: 12px;
@@ -567,7 +567,7 @@
         line-height: 1;
     }
     .welcome-intro{
-        margin-top: 45px;
+        margin-top: 100px;
         margin-bottom: 35px;
     }
     .product-head h1{
@@ -616,5 +616,8 @@
     .form-title h4{
         text-align: center;
         margin-bottom: 25px;
+    }
+    .welcome-thumb img{
+        max-width: 325px;
     }
 }
