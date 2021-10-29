@@ -205,6 +205,7 @@ img {
 
 .h-90vh {
     height: 90vh;
+    height: 90%;
 }
 
 .pos-abs-top-right {
@@ -986,7 +987,7 @@ a,
 
 .welcome-intro{
     margin-bottom: 60px;
-    margin-top: 75px
+    margin-top: 130px
 }
 
 .welcome-intro > h1{
