@@ -137,7 +137,7 @@ $medium=$_GET['utm_medium'];
                             <div class="product-content">
                                 <div class="left-content">
                                     <h3>enShock</h3>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                                    <p>Zimmer's ENSHOCK to set new standards in therapy, as it is the first quiet shock wave, is maintenance-free, heals deeper layers of tissue, and is best for.. <a href="#" class="ml-2" data-toggle="modal" data-target="#exampleModalCenter">Read More</a></p>
                                     <div class="product-btn">
                                         <a href="#" data-toggle="modal" data-target="#exampleModal0">Download Brochure</a>
                                     </div>
@@ -163,7 +163,7 @@ $medium=$_GET['utm_medium'];
                                             <img src="assets/img/products/physys.jpg" alt="">
                                             <div class="elec-img-overlay">
                                                 <div class="overlay-text">
-                                                    <p>The high-tech treatment centre in a practice orientated system.</p>
+                                                    <p>Physiotherapy at Its Finest, with Mono/Dual Channels.</p>
                                                     <div class="overlay-btn">
                                                         <a href="assets/img/products/physys.jpg" data-fancybox="images">View Product</a>
                                                     </div>
@@ -182,7 +182,7 @@ $medium=$_GET['utm_medium'];
                                             <img src="assets/img/products/sono-motivation.jpg" alt="">
                                             <div class="elec-img-overlay">
                                                 <div class="overlay-text">
-                                                    <p>The high-tech treatment centre in a practice orientated system.</p>
+                                                    <p>The Physical Medicine Pioneer (Electro & Ultrasound Therapy) to End Your Woes.</p>
                                                     <div class="overlay-btn">
                                                         <a href="assets/img/products/sono-motivation.jpg" data-fancybox="images">View Product</a>
                                                     </div>
@@ -201,7 +201,7 @@ $medium=$_GET['utm_medium'];
                                             <img src="assets/img/products/sono-one.jpg" alt="">
                                             <div class="elec-img-overlay">
                                                 <div class="overlay-text">
-                                                    <p>The high-tech treatment centre in a practice orientated system.</p>
+                                                    <p>Handheld Ultrasound Therapy to Nail Your Convenience.</p>
                                                     <div class="overlay-btn">
                                                         <a href="assets/img/products/sono-one.jpg" data-fancybox="images">View Product</a>
                                                     </div>
@@ -232,7 +232,7 @@ $medium=$_GET['utm_medium'];
                                             <img src="assets/img/products/laser-therapy.jpg" alt="">
                                             <div class="elec-img-overlay">
                                                 <div class="overlay-text">
-                                                    <p>The high-tech treatment centre in a practice orientated system.</p>
+                                                    <p>Our High-Energy Opton Lasers for Your Therapy.</p>
                                                     <div class="overlay-btn">
                                                         <a href="assets/img/products/laser-therapy.jpg" data-fancybox="images">View Product</a>
                                                     </div>
@@ -260,7 +260,7 @@ $medium=$_GET['utm_medium'];
                                             <img src="assets/img/products/cryo-mini.jpg" alt="">
                                             <div class="elec-img-overlay">
                                                 <div class="overlay-text">
-                                                    <p>The high-tech treatment centre in a practice orientated system.</p>
+                                                    <p>Freeze and Heal.</p>
                                                     <div class="overlay-btn">
                                                         <a href="assets/img/products/cryo-mini.jpg" data-fancybox="images">View Product</a>
                                                     </div>
@@ -279,7 +279,7 @@ $medium=$_GET['utm_medium'];
                                             <img src="assets/img/products/cryo6.jpg" alt="">
                                             <div class="elec-img-overlay">
                                                 <div class="overlay-text">
-                                                    <p>The high-tech treatment centre in a practice orientated system.</p>
+                                                    <p>Superior Cryotherapy with - 30°C air.</p>
                                                     <div class="overlay-btn">
                                                         <a href="assets/img/products/cryo6.jpg" data-fancybox="images">View Product</a>
                                                     </div>
@@ -296,33 +296,92 @@ $medium=$_GET['utm_medium'];
                         </div>
                     </div>
                 </div>
-                <!-- Diathermy -->
+                <!-- Diathermy and cItrac -->
                 <div class="row">
+                    <div class="col-lg-4 m-3px pr-0">
+                        <div class="electro-box electro-box-laser">
+                            <div class="electro-head">
+                                <h2>cITrac</h2>
+                            </div>
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="elec-sec">
+                                        <div class="elec-img">
+                                            <img src="assets/img/products/traction.png" alt="">
+                                            <div class="elec-img-overlay">
+                                                <div class="overlay-text">
+                                                    <p>The high-tech treatment centre in a practice orientated system.</p>
+                                                    <div class="overlay-btn">
+                                                        <a href="assets/img/products/traction.png" data-fancybox="images">View Product</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elec-content">
+                                            <div><h3>Traction Unit</h3></div>
+                                            <div class="brochure-btn"><a href="#" data-toggle="modal" data-target="#exampleModal0">Download Brochure</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 m-3px pl-5">
+                        <div class="electro-box">
+                            <div class="electro-head">
+                                <h2>Diathermy</h2>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="elec-sec">
+                                        <div class="elec-img">
+                                            <img src="assets/img/products/thermo-pro.jpg" alt="">
+                                            <div class="elec-img-overlay">
+                                                <div class="overlay-text">
+                                                    <p>Latest Pulsed and Continuous Shortwave Therapy.</p>
+                                                    <div class="overlay-btn">
+                                                        <a href="assets/img/products/thermo-pro.jpg" data-fancybox="images">View Product</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elec-content">
+                                            <div><h3>Thermo Pro</h3></div>
+                                            <div class="brochure-btn"><a href="#" data-toggle="modal" data-target="#exampleModal0">Download Brochure</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="elec-sec">
+                                        <div class="elec-img">
+                                            <img src="assets/img/products/thermo-tk.jpg" alt="">
+                                            <div class="elec-img-overlay">
+                                                <div class="overlay-text">
+                                                    <p>A Must Have in Modern Physiotherapy for Deep Heating.</p>
+                                                    <div class="overlay-btn">
+                                                        <a href="assets/img/products/thermo-tk.jpg" data-fancybox="images">View Product</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elec-content">
+                                            <div><h3>Thermo TK</h3></div>
+                                            <div class="brochure-btn"><a href="#" data-toggle="modal" data-target="#exampleModal0">Download Brochure</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Diathermy -->
+                <!-- <div class="row">
                     <div class="col-12 m-5px">
                         <div class="electro-box">
                             <div class="electro-head">
                                 <h2>Diathermy</h2>
                             </div>
                             <div class="row">
-                                <!-- <div class="col-lg-4">
-                                    <div class="elec-sec">
-                                        <div class="elec-img">
-                                            <img src="assets/img/products/micro5.jpg" alt="">
-                                            <div class="elec-img-overlay">
-                                                <div class="overlay-text">
-                                                    <p>The high-tech treatment centre in a practice orientated system.</p>
-                                                    <div class="overlay-btn">
-                                                        <a href="assets/img/products/micro5.jpg" data-fancybox="images">View Product</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="elec-content">
-                                            <div><h3>Micro 5</h3></div>
-                                            <div class="brochure-btn"><a href="#" data-toggle="modal" data-target="#exampleModal0">Download Brochure</a></div>
-                                        </div>
-                                    </div>
-                                </div> -->
                                 <div class="col-lg-6">
                                     <div class="elec-sec">
                                         <div class="elec-img">
@@ -364,7 +423,7 @@ $medium=$_GET['utm_medium'];
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- Shockwave therapy -->
                 <div class="row">
                     <div class="col-12">
@@ -379,7 +438,7 @@ $medium=$_GET['utm_medium'];
                                             <img src="assets/img/products/enplus.jpg" alt="">
                                             <div class="elec-img-overlay">
                                                 <div class="overlay-text">
-                                                    <p>The high-tech treatment centre in a practice orientated system.</p>
+                                                    <p>Mobile, radial shockwave therapy system with high-energy pulses for varied medical conditions.</p>
                                                     <div class="overlay-btn">
                                                         <a href="assets/img/products/enplus.jpg" data-fancybox="images">View Product</a>
                                                     </div>
@@ -398,7 +457,7 @@ $medium=$_GET['utm_medium'];
                                             <img src="assets/img/products/enplus-pro.jpg" alt="">
                                             <div class="elec-img-overlay">
                                                 <div class="overlay-text">
-                                                    <p>The high-tech treatment centre in a practice orientated system.</p>
+                                                    <p>Unique and Superior in its Convenience and Ease of Access for Therapists.</p>
                                                     <div class="overlay-btn">
                                                         <a href="assets/img/products/enplus-pro.jpg" data-fancybox="images">View Product</a>
                                                     </div>
@@ -435,7 +494,7 @@ $medium=$_GET['utm_medium'];
                     </div>
                 </div>
                 <!-- clTrac Traction Unit -->
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-12 mt-1">
                         <div class="electro-box">
                             <div class="electro-head">
@@ -502,23 +561,39 @@ $medium=$_GET['utm_medium'];
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- Emfield Pro -->
                 <div class="row">
                     <div class="col-lg-6 m-5px pr-3px">
                         <div class="emfield-box">
                             <img src="assets/img/products/emfield.jpg" alt="">
-                            <div class="emfield-content emfield-content-white">
-                                <h1>Emfield Pro</h1>
-                            </div>
-                            <div class="emfield-btn">
-                                <a href="#">Download Brochure</a>
-                            </div>
+                                <div class="elec-img-overlay">
+                                    <div class="overlay-text">
+                                        <p>High Energy Inductive Therapy with Expertise.</p>
+                                            <div class="overlay-btn">
+                                                <a href="assets/img/products/emfield.jpg" data-fancybox="images">View Product</a>
+                                            </div>
+                                    </div>
+                                </div>
+                                <div class="emfield-content emfield-content-white">
+                                        <h1>Emfield Pro</h1>
+                                </div>
+                                <div class="emfield-btn">
+                                        <a href="#">Download Brochure</a>
+                                </div>
                         </div>
                     </div>
                     <div class="col-lg-6 m-5px pl-3px">
                         <div class="emfield-box">
                             <img src="assets/img/products/axion.jpg" alt="">
+                            <div class="elec-img-overlay">
+                                    <div class="overlay-text">
+                                        <p>Therapist's Practice Partner, Offering Optimum Support for the Practitioner.</p>
+                                            <div class="overlay-btn">
+                                                <a href="assets/img/products/axion.jpg" data-fancybox="images">View Product</a>
+                                            </div>
+                                    </div>
+                                </div>
                             <div class="emfield-content">
                                 <h1>Axion Treatment table</h1>
                             </div>
@@ -546,7 +621,7 @@ $medium=$_GET['utm_medium'];
                     <div class="col-lg-6">
                         <div class="about-content">
                             <h2 class="about-head"><span>About</span> Zimmer</h2>
-                            <p class="mb-3">With 50 years of experience in technical medicine, Zimmer MedizinSysteme has become one of the leading European manufacturers for physiotherapy systems. Innovative cardiologic products, diagnostic products and aesthetic products also enhance our product lines.</p>
+                            <p class="mb-3">With 50+ years of experience in technical medicine, Zimmer MedizinSysteme has become one of the leading European manufacturers for physiotherapy systems. Innovative cardiologic products, diagnostic products and aesthetic products also enhance our product lines.</p>
                             <p>Our family-run company is located in Bavaria, Southern Germany. Supporting approximately 250 employees nationally and internationally, innovative, German-
                                 made products are offered with award-winning design. Customer-oriented services are available through our worldwide network.</p>
                         </div>
@@ -717,11 +792,33 @@ $medium=$_GET['utm_medium'];
             </div>
         </div>
 
+        <!-- Enshock Popup -->
+        <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content modal-content-enshock">
+                <div class="modal-header">
+                    <h5 class="modal-title modal-title-enshock" id="exampleModalLongTitle">enShock</h5>
+                    <button type="button" class="close download-close close-btn-popup" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">X</span>
+                    </button>
+                </div>
+                <div class="modal-body modal-body-enshock">
+                    <p>Zimmer's ENSHOCK to set new standards in therapy, as it is the first quiet shock wave, is maintenance-free, heals deeper layers of tissue, and is best for chronic pain. Extracorporeal, focused shock wave therapy (ESWT) is a non-invasive treatment using focused short waves, with supreme benefits. ENSHOCK utilizes these waves, that have a deep impact on the injured tissue, reducing pain and promoting healing. It is applied mainly in orthopedic indications like non-union fractures, and many musculoskeletal problems like calcification injuries, etc.  The shock wave therapy's price is very much affordable. </p>
+                    <h3>What is shock wave therapy used for? </h3>
+                    <p>ESWT is being widely used in treatments in areas like Orthopaedics, General medicine, Sports, and Rehabilitation hospitals. ENSHOCK is an effective alternative to surgery for most of your patients.</p>
+                </div>
+                <div class="modal-footer modal-footer-enshock">
+                    <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+                    <button type="button" class="btn" data-dismiss="modal" data-toggle="modal" data-target="#exampleModal0">Download Brochure</button>
+                </div>
+                </div>
+            </div>
+        </div>
     </div>
 
 
-
-     <div class="cont_link_box">
+    <!-- Right Side Bottom Fixed Buttons -->
+    <div class="cont_link_box">
       	<a id="" href="tel:+91" class="callnow_inte" target="">
 		<i class="fa fa-phone" aria-hidden="true"></i>
 		</a>
@@ -730,8 +827,8 @@ $medium=$_GET['utm_medium'];
 		</a>
     </div> 
 
-
-   <div class="modal fade popsec onload_pop" id="myModal3">
+    <!-- Privacy popup -->
+    <div class="modal fade popsec onload_pop" id="myModal3">
             <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
 
@@ -757,18 +854,18 @@ $medium=$_GET['utm_medium'];
 
                 </div>
             </div>
-</div>
+    </div>
 
 
     <!-- START Bootstrap-Cookie-Alert -->
-<div class="alert text-center cookiealert" role="alert">
-    <b>Do you like cookies?</b> &#x1F36A; We use cookies to ensure you get the best experience on our website. <a href="#" data-toggle="modal" data-target="#myModal3">Learn more</a>
+    <div class="alert text-center cookiealert" role="alert">
+        <b>Do you like cookies?</b> &#x1F36A; We use cookies to ensure you get the best experience on our website. <a href="#" data-toggle="modal" data-target="#myModal3">Learn more</a>
 
-    <button type="button" class="btn btn-primary btn-sm acceptcookies">
-        I agree
-    </button>
-</div>
-<!-- END Bootstrap-Cookie-Alert -->
+        <button type="button" class="btn btn-primary btn-sm acceptcookies">
+            I agree
+        </button>
+    </div>
+    <!-- END Bootstrap-Cookie-Alert -->
 
 
     <!-- ***** All jQuery Plugins ***** -->

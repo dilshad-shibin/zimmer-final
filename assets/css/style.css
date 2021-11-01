@@ -1168,6 +1168,14 @@ form .form-group{
     font-weight: 700;
 }
 
+.product-content .left-content a{
+    color: #ffb400;
+    font-size: 15px;
+    transition: all .3s ease;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
 .product-content .left-content p{
     color: #fff;
     font-size: 18px;
@@ -1388,6 +1396,21 @@ form .form-group{
     color: #185cc9;
 }
 
+.emfield-box:hover .elec-img-overlay{
+    background: rgb(22 92 206 / 90%);
+}
+
+.emfield-box:hover .overlay-text p,
+.emfield-box:hover .overlay-text .overlay-btn a{
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+}
+
+.emfield-box:hover .emfield-content h1,
+.emfield-box:hover .emfield-btn{
+    display: none !important;
+}
 /* ******************************
 :: 9.0 ABOUT AREA CSS
 ****************************** */
@@ -1791,3 +1814,84 @@ form .form-group{
     width: 280px;
 }
 
+/* enshock popup */
+
+.modal-header button.close-btn-popup{
+    background-color: #2e2a29;
+    z-index: 99999;
+    position: absolute;
+    transition: all .3s ease;
+    border-radius: 45px;
+    border: 1px solid transparent;
+    width: 46px;
+    height: 46px;
+    right: -6px;
+    top: -8px;
+    float: right;
+    padding: 2px 0;
+    margin: 0;
+}
+
+.modal-header button.close-btn-popup span{
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 700;
+    line-height: 45px;
+    padding: 5px 16px;
+}
+
+.modal-body-enshock{
+    padding: 0 1rem;
+}
+
+.modal-body-enshock p{
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+
+.modal-body-enshock h3{
+    color: #185cc9;
+    font-weight: 700;
+    margin-bottom: 8px;
+    margin-top: 26px;
+}
+
+.modal-title-enshock{
+    font-size: 22px;
+    color: #185cc9;
+    font-weight: 800;
+    position: relative;
+}
+
+.modal-title-enshock::before{
+    position: absolute;
+    content: "";
+    background-color: #185cc9;
+    width: 40%;
+    height: 3px;
+    left: 0;
+    bottom: -6px;
+}
+
+.modal-footer-enshock{
+    justify-content: flex-start !important;
+}
+
+.modal-footer-enshock button{
+    background: #ffb400 !important; 
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #ffb400;
+    transition: all .3s ease;
+}
+
+.modal-footer-enshock button:hover{
+    background: transparent !important;
+    color: #185cc9;
+}
+
+.modal-content-enshock{
+    padding-bottom: 20px;
+}
